@@ -1,4 +1,4 @@
-clear;
+
 n = 10000000;
 array = 2:n;
 ones = [];
