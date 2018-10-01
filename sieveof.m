@@ -1,5 +1,5 @@
 
-n = 10000000;
+n = 1000000;
 array = 2:n;
 ones = [];
 for i = 1:length(array)
